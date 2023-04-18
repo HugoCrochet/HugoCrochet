@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoCrochet
 - 👀 I’m interested in computer science and mathematics
-- 🌱 I’m currently learning machine learning and optimisation
+- 🌱 I’m currently learning computer science at Telecom Paris
 - 📫 How to reach me : hrochet14@gmail.com
 
 <!---
