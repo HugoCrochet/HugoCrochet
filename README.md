@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoCrochet
-- 👀 I’m interested in computer science and mathematics
-- 🌱 I’m currently learning computer science at Telecom Paris
+- 👀 I’m interested in data, AI, computer science and mathematics
+- 🌱 I’m currently learning project and innovation management (Master PIC - École Polytechnique) after majoring in data science and computer vision last year
 - 📫 How to reach me : hrochet14@gmail.com
 
 <!---
